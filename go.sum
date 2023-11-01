@@ -4,8 +4,8 @@ github.com/LinkinStars/go-i18n/v2 v2.2.2 h1:ZfjpzbW13dv6btv3RALKZkpN9A+7K1JA//2Q
 github.com/LinkinStars/go-i18n/v2 v2.2.2/go.mod h1:hLglSJ4/3M0Y7ZVcoEJI+OwqkglHCA32DdjuJJR2LbM=
 github.com/answerdev/answer v1.2.0 h1:i9NmtwFqk55To48d+md80FccZZ/3qu5/IaFH0iPoIW4=
 github.com/answerdev/answer v1.2.0/go.mod h1:eY6/JGGBdMzeci1mxCUqUEu+6Tp9CFPj7q/yZsRoKzo=
-github.com/apache/incubator-answer-plugins/editor-formula v0.0.0-20231101074238-9b07b791150f h1:cyVV9WICOCCH4L/958OLjS5LizcWYp9yyrdZPzUDC80=
-github.com/apache/incubator-answer-plugins/editor-formula v0.0.0-20231101074238-9b07b791150f/go.mod h1:JUn5l5jn42tYjqSOtlsAHMbIEN32c/re+tOF9Q8fayY=
+github.com/apache/incubator-answer-plugins/connector-github v0.0.0-20231101074238-9b07b791150f h1:wv3bX9A2CcQHpEEnJ8vL9lvAQQGVGf3WADD+aXbIfm8=
+github.com/apache/incubator-answer-plugins/connector-github v0.0.0-20231101074238-9b07b791150f/go.mod h1:CkvLmem/rBgZdNi3Fc0M1yf37GWycwKcQX95GHD06iA=
 github.com/aymerick/douceur v0.2.0 h1:Mv+mAeH1Q+n9Fr+oyamOlAkUNPWPlA8PPGR0QAaYuPk=
 github.com/aymerick/douceur v0.2.0/go.mod h1:wlT5vV2O3h55X9m7iVYN0TBM0NH/MmbLnd30/FjWUq4=
 github.com/bytedance/sonic v1.5.0/go.mod h1:ED5hyg4y6t3/9Ku1R6dU/4KyJ48DZ4jPhfY1O2AihPM=
@@ -14,6 +14,7 @@ github.com/bytedance/sonic v1.9.1/go.mod h1:i736AoUSYt75HyZLoJW9ERYxcy6eaN6h4BZX
 github.com/chenzhuoyu/base64x v0.0.0-20211019084208-fb5309c8db06/go.mod h1:DH46F32mSOjUmXrMHnKwZdA8wcEefY7UVqBKYGjpdQY=
 github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 h1:qSGYFH7+jGhDF8vLC+iwCD4WpbV1EBDSzWkJODFLams=
 github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311/go.mod h1:b583jCggY9gE99b6G5LEC39OIiVsWj+R97kbl5odCEk=
+github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

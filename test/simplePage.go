@@ -1,7 +1,7 @@
-package main
+package sadness
 
 import (
-	"github.com/apache/incubator-answer-plugins/editor-formula/i18n"
+	"github.com/apache/incubator-answer-plugins/connector-github/i18n"
 	"github.com/answerdev/answer/plugin"
 )
 

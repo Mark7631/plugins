@@ -4,7 +4,7 @@ go 1.21.3
 
 require (
 	github.com/answerdev/answer v1.2.0
-	github.com/apache/incubator-answer-plugins/editor-formula v0.0.0-20231101074238-9b07b791150f
+	github.com/apache/incubator-answer-plugins/connector-github v0.0.0-20231101074238-9b07b791150f
 )
 
 require (
@@ -23,6 +23,7 @@ require (
 	github.com/gorilla/css v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.4 // indirect
+	github.com/kr/text v0.2.0 // indirect
 	github.com/leodido/go-urn v1.2.4 // indirect
 	github.com/mattn/go-isatty v0.0.19 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.21 // indirect
