@@ -1,8 +1,8 @@
 plugin:
-  basic_connector:
+  test:
     backend:
       name:
-        other: basic
+        other: test
       info:
         name:
           other: OAuth2 Basic
