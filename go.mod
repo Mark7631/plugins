@@ -1,6 +1,6 @@
 module github.com/Mark7631/plugins/test
 
-go 1.21.3
+go 1.18
 
 require github.com/Mark7631/incubator-answer v0.0.0-20231102052839-5fdcd4c1ad2d
 
