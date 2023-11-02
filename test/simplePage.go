@@ -1,8 +1,7 @@
 package sadness
 
 import (
-	"github.com/Mark7631/plugins/test/i18n"
-	"github.com/Mark7631/incubator-answer/pkg/checker"
+	"github.com/Mark7631/plugins/test/test/i18n"
 	"github.com/Mark7631/incubator-answer/plugin"
 )
 
