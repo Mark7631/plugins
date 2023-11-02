@@ -1,8 +1,8 @@
 package sadness
 
 import (
-	"github.com/apache/incubator-answer-plugins/connector-github/i18n"
-	"github.com/answerdev/answer/plugin"
+	"github.com/Mark7631/plugins/test/i18n"
+	"github.com/Mark7631/incubator-answer/plugin"
 )
 
 type FormulaPlugin struct {
